@@ -161,7 +161,7 @@ Buy Bitcoin easily with a debit card
 
 
 ### [Bitcoin Core](https://bitcoin.org/en/download) 
-(Desktop - PC, Mac, Linux)
+(PC, Mac, Linux)
 
 Bitcoin Core wallet
 
