@@ -1,0 +1,7 @@
+td:empty {
+  visibility: hidden;
+}
+
+h1.hidden {
+    display: none;
+}
