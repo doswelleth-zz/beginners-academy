@@ -1,6 +1,6 @@
 # Blog
 
-## Cryptocurrency Market Fit
+## Product Market
 ##### December 22, 2017
 
 There was a time when Bitcoin was the faster, cheaper, better option, for peer-to-peer online payments. Depending on your needs, it still is, today. But the concept Marc Andreessen invented or popularized for groking the trend in customer centricity is [product market fit](https://a16z.com/2017/02/18/12-things-about-product-market-fit/).
