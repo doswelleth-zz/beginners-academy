@@ -161,15 +161,15 @@ Buy Bitcoin easily with a debit card
 
 
 ### [Bitcoin Core](https://bitcoin.org/en/download) 
-(Desktop - PC, Mac, Linux)
+(PC, Mac, Linux)
 
 Bitcoin Core wallet
 
 
 ### [BitGo](https://www.bitgo.com) 
-(iOS, Android)
+(iOS, Android - Create on desktop)
 
-Clean, minimal and secure [multi-signature](https://en.bitcoin.it/wiki/Pay_to_script_hash) [Segwit](https://segwit.org/understanding-segregated-witness-905cc712c692) wallet
+Secure 2-of-3 [multi-signature](https://en.bitcoin.it/wiki/Pay_to_script_hash) [Segwit](https://segwit.org/understanding-segregated-witness-905cc712c692) wallet with a clean interface
 
 
 ### [Green Address](https://greenaddress.it/en/) 
