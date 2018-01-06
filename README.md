@@ -5,7 +5,7 @@
   <img src="images/Beginners_Logo.png"/>
 </p>
 
-- Academy
-- Resources
-- Tutorials
-- Society
+| Academy  |  Resources | Tutorials  | Society  | 
+|---|---|---|---|
+
+
