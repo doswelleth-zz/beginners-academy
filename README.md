@@ -5,7 +5,13 @@
   <img src="images/Beginners_Logo.png"/>
 </p>
 
-- Academy
-- Resources
-- Tutorials
-- Society
+<table>
+ <thead>
+  <tr>
+   <th>Academy</th>
+   <th>Resources</th>
+   <th>Tutorials</th>
+   <th>Society</th>
+  </tr>
+ </thead>
+</table>
