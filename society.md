@@ -1,14 +1,14 @@
 # Society
 
 
+## Podcast
+The latest discussions
+
 ## Mentorship
-Request one-on-one time from a mentor
-to help you with your next project  
+You and a fellow Beginner
 
 ## Discussion
-Ask general questions from qualified
-developers and fellow Beginners
+General questions
 
 ## <a href="blog">Blog</a>
-Read the latest posts from David on all
-things Bitcoin and Beginners Academy
+David writes
