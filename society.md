@@ -9,6 +9,6 @@ to help you with your next project
 Ask general questions from qualified
 developers and fellow Beginners
 
-## [Blog](<a href="blog">Blog</a>)
+## <a href="blog">Blog</a>
 Read the latest posts from David on all
 things Bitcoin and Beginners Academy
