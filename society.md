@@ -8,7 +8,7 @@ General questions
 Open monthly gathering
 
 ## Podcast
-The latest discussions
+Bitcoin community talk
 
 ## <a href="blog">Blog</a>
 Beginners Academy blog
