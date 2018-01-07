@@ -61,6 +61,7 @@ The economics of Bitcoin deftly explained
 Andreas Antonopoulos delves into the why of Bitcoin
 
 
+
 ## Cold Wallets
 
 
@@ -182,6 +183,18 @@ Secure 2-of-3 [multi-signature](https://en.bitcoin.it/wiki/Pay_to_script_hash) [
 (Android)
 
 Preferred [Segwit](https://segwit.org/understanding-segregated-witness-905cc712c692) wallet by Android users and developers
+
+
+
+## Non-Profits
+
+
+### [BitGive](https://www.bitgivefoundation.org){:target="_blank"}
+Bitcoin foundation improving public health and the environment
+
+
+### [Pineapple Fund](https://pineapplefund.org){:target="_blank"}
+Donating $86 million dollars in Bitcoin to charity
 
 
 ## Podcasts
