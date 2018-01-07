@@ -12,5 +12,5 @@ Open monthly gathering
 ## Podcast
 Bitcoin community talk
 
-## <a href="https://twitter.com/beginnersproj">Twitter</a>
+## <a href="https://twitter.com/beginnersproj" target="_blank">Twitter</a>
 Follow us on Twitter
