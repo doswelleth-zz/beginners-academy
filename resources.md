@@ -14,27 +14,27 @@ Creator of Bitcoin
 
 
 
-### [Bitcoin.org](https://bitcoin.org)
+### [Bitcoin.org](https://bitcoin.org){:target="_blank"}
 Getting started
 
 
-### [Bitcoin Lecture (Princeton)](http://bitcoinbook.cs.princeton.edu)
+### [Bitcoin Lecture (Princeton)](http://bitcoinbook.cs.princeton.edu){:target="_blank"}
 Blockchain mechanics and video series
 
 
-### [Blockchain 101: A Visual Demo](https://www.youtube.com/watch?v=_160oMzblY8)
+### [Blockchain 101: A Visual Demo](https://www.youtube.com/watch?v=_160oMzblY8){:target="_blank"}
 Step-by-step YouTube video on how blockchain works
 
 
-### [Jameson Lopp](http://lopp.net/bitcoin.html)
+### [Jameson Lopp](http://lopp.net/bitcoin.html){:target="_blank"}
 Foundational Bitcoin resource
 
 
-### [Jimmy Song](https://www.youtube.com/watch?v=LYjUOFc0OMo)
+### [Jimmy Song](https://www.youtube.com/watch?v=LYjUOFc0OMo){:target="_blank"}
 Presentation on antifragility
 
 
-### [The Complete Satoshi](http://satoshi.nakamotoinstitute.org)
+### [The Complete Satoshi](http://satoshi.nakamotoinstitute.org){:target="_blank"}
 Early emails, code and quotations
 
 
