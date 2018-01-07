@@ -6,7 +6,7 @@
 
 
 
-### [Satoshi Nakamoto](https://bitcoin.org/bitcoin.pdf)
+### [Satoshi Nakamoto](https://bitcoin.org/bitcoin.pdf){:target="_blank"}
 Creator of Bitcoin
 
 
@@ -160,25 +160,25 @@ Buy Bitcoin easily with a debit card
 ## Hot Wallets
 
 
-### [Bitcoin Core](https://bitcoin.org/en/download) 
+### [Bitcoin Core](https://bitcoin.org/en/download)
 (PC, Mac, Linux)
 
 Bitcoin Core wallet
 
 
-### [BitGo](https://www.bitgo.com) 
+### [BitGo](https://www.bitgo.com)
 (iOS, Android - Create on desktop)
 
 Secure 2-of-3 [multi-signature](https://en.bitcoin.it/wiki/Pay_to_script_hash) [Segwit](https://segwit.org/understanding-segregated-witness-905cc712c692) wallet with a clean interface
 
 
-### [Green Address](https://greenaddress.it/en/) 
+### [Green Address](https://greenaddress.it/en/)
 (iOS, Android)
 
 [Segwit](https://segwit.org/understanding-segregated-witness-905cc712c692) wallet for security-conscious users by Core developers
 
 
-### [Samouri Wallet](https://samouraiwallet.com) 
+### [Samouri Wallet](https://samouraiwallet.com)
 (Android)
 
 Preferred [Segwit](https://segwit.org/understanding-segregated-witness-905cc712c692) wallet by Android users and developers
