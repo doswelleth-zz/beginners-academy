@@ -194,7 +194,7 @@ Bitcoin foundation improving public health and the environment
 
 
 ### [Pineapple Fund](https://pineapplefund.org){:target="_blank"}
-Donating $86 million dollars in Bitcoin to charities
+Donating $86 million dollars in Bitcoin to charity
 
 
 ## Podcasts
