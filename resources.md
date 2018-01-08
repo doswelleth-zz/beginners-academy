@@ -161,7 +161,7 @@ Buy Bitcoin easily with a debit card
 ## Films
 
 
-### [Crypto Wars - NHK Documentary](https://www.youtube.com/watch?v=EcC0RNsallc){:target="_blank"}
+### [Crypto Wars - NHK](https://www.youtube.com/watch?v=EcC0RNsallc){:target="_blank"}
 Documentary on the history of commercial encryption
 
 
@@ -261,7 +261,7 @@ Smart contracts platform for the Bitcoin protocol
 Non-profit research and advocacy center
 
 
-## YouTube
+## YouTube Channels
 
 
 ### [Andreas Antonopoulos](https://www.youtube.com/user/aantonop/videos){:target="_blank"}
