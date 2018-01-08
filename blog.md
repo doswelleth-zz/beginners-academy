@@ -1,7 +1,7 @@
 # Blog
 
 ## The Property Analogy
-##### by David Oliver Doswell
+##### David Oliver Doswell
 
 ##### December 18, 2017
 
@@ -17,6 +17,8 @@ The railroad tracks on Fourth Avenue were first being covered over by pavement t
 
 
 ## Trust-Minimization
+##### David Oliver Doswell
+
 ##### December 16, 2017
 
 
@@ -33,6 +35,8 @@ Faith in Bitcoin is not simplistic faith in the price increasing based on the fr
 
 
 ## The Engineering Principle
+##### David Oliver Doswell
+
 ##### December 12, 2017
 
 
@@ -48,6 +52,8 @@ This functionality is freely available to every man, woman and child, on planet 
 
 
 ## The Mania of Poverty
+##### David Oliver Doswell
+
 ##### December 8, 2017
 
 
@@ -59,6 +65,8 @@ There are other extraneous qualifications the SEC may invoke to consider you sop
 
 
 ## On Intrinsic Value
+##### David Oliver Doswell
+
 ##### December 7, 2017
 
 
@@ -72,6 +80,8 @@ Thus the best investment strategy of such a rare, precious object would be to ho
 
 
 ## The Final Problem
+##### David Oliver Doswell
+
 ##### December 4, 2017
 
 
@@ -105,6 +115,8 @@ If a miner attempts to add 15 bitcoins or 12.3 bitcoins to their block when they
 
 
 ## A Big Idea
+##### David Oliver Doswell
+
 ##### December 3, 2017
 
 
@@ -124,6 +136,8 @@ Families would learn not only the value of creating wealth as a family but what 
 
 
 ## The Modern Family
+##### David Oliver Doswell
+
 ##### November 30, 2017
 
 
@@ -141,6 +155,8 @@ Just as nearly every working-class home over the last 20 years has purchased som
 
 
 ## Personal Responsibility
+##### David Oliver Doswell
+
 ##### November 29, 2017
 
 
@@ -154,6 +170,8 @@ For now, if you do not have an approved Bitcoin wallet (one whose codebase is op
 
 
 ## On Antifragility
+##### David Oliver Doswell
+
 ##### November 29, 2017
 
 
