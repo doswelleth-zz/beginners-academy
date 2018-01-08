@@ -161,7 +161,7 @@ Buy Bitcoin easily with a debit card
 ## Films
 
 
-[Crypto Wars - NHK Documentary](https://www.youtube.com/watch?v=EcC0RNsallc){:target="_blank"}
+### [Crypto Wars - NHK Documentary](https://www.youtube.com/watch?v=EcC0RNsallc){:target="_blank"}
 Documentary on the history of commercial encryption
 
 
