@@ -158,11 +158,14 @@ Meet up to buy or sell Bitcoin offline in a public place
 Buy Bitcoin easily with a debit card
 
 
-## Films
+## History
 
 
 ### [Crypto Wars - NHK](https://www.youtube.com/watch?v=EcC0RNsallc){:target="_blank"}
 Documentary on the history of commercial encryption
+
+### [Timothy C. May - Thirty Years of Crypto Anarchy | HCPP16](https://www.youtube.com/watch?v=TdmpAy1hI8g){:target="_blank"}
+Founding Cypherpunk recounts the early days of crypto
 
 
 ## Hot Wallets
