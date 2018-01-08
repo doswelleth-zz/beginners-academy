@@ -1,6 +1,8 @@
 # Blog
 
 ## The Property Analogy
+##### by David Oliver Doswell
+
 ##### December 18, 2017
 
 Bitcoin is often discussed in the context of money because of the unit of account miners create honestly during the [mining process](https://www.investopedia.com/terms/b/bitcoin-mining.asp). This unit of account is a portable, fungible, divisible, incorruptible, if expensive, medium of exchange, but may be used as a store of value. There are reasons for this function. Bitcoin's development methodology and by extension its blockchain [prioritizes security](https://en.bitcoin.it/wiki/Protocol_documentation). This means the community culture prioritizes security, demonstrated in Bitcoin's obstinance to be the faster, cheaper blockchain. The truncated blocksize debate aside, there is real success here. Bitcoin managed to create the most valuable digital real estate on the planet. Let us briefly discuss why Bitcoin as a unit of account belies the real value of the right to own property simply by individual choice and monetary decree.
