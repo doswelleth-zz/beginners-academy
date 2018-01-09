@@ -50,7 +50,7 @@ A holder's faith in Bitcoin is not simplistic faith in the price increasing base
 ##### December 12, 2017
 
 
-Technical work is a thankless job. In the film and television industries, the crew, the people who actually make the shows and films, outnumber the people we see on the screen. Few members of the audience attend a screening of a film to appreciate the makeup on an actor or the lighting of a scene. A discriminating fewer more attend to watch the director think or listen to the writer make rhyme and reason. The vast majority have come to be entertained.
+Technical work is a thankless job. In the film and television industries, the crew vastly outnumbers the people we see on screen. Few members of the audience attend a screening of a film to appreciate the makeup on an actor or the lighting of a scene. A discriminating fewer more attend to watch the director think or listen to the writer make rhyme and reason. The vast majority have come to be entertained.
 
 Consequently, the final product is a luxurious abstraction. Impurities are removed. Much of what is shot is left, as is said, "on the cutting room floor." The gorgeous often hyper-productized result is a transmogrified grotesque. Technical people know products only look as good as they work. This is the job of the critic: to parse and judge what the audience cannot to arrive at a standard for making what the audience wants. No more is this true than in Bitcoin, where the pubic isn't hidden from the process but rather encouraged to participate in the production.
 
