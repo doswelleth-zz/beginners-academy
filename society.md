@@ -3,14 +3,14 @@
 ## <a href="blog">Blog</a>
 Beginners Academy blog
 
-## Discussion
-Forum for subscribers
+## Community
+Forums for subscribers
 
 ## Meet Up
 Open monthly gathering
 
 ## Podcast
-Bitcoin community talk
+Bitcoin community chat
 
 ## <a href="https://twitter.com/beginacademy" target="_blank">Twitter</a>
 Follow us on Twitter
