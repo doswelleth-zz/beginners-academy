@@ -4,7 +4,7 @@
 Beginners Academy blog
 
 ## Discussion
-General questions
+Forum for subscribers
 
 ## Meet Up
 Open monthly gathering
