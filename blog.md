@@ -1,3 +1,8 @@
+p {
+    font-size: 2.5em;
+    letter-spacing: 0.1em;
+  }
+
 # Blog
 
 ## The Property Analogy
@@ -5,7 +10,7 @@
 
 ##### December 18, 2017
 
-<p align="justify">Bitcoin is often discussed in the context of money because of the unit of account miners create during the [mining process](https://www.investopedia.com/terms/b/bitcoin-mining.asp){:target="_blank"}. This unit of account is a portable, fungible, divisible, incorruptible, if expensive, medium of exchange, but may be used as a store of value. There are reasons for this function. Bitcoin's development methodology and by extension its blockchain [prioritizes security](https://en.bitcoin.it/wiki/Protocol_documentation){:target="_blank"}. This means the community culture prioritizes security, demonstrated in Bitcoin's obstinance to be the faster, cheaper blockchain. The truncated blocksize debate aside, there is real success here to this production. Bitcoin managed to create the most valuable digital real estate on the planet. Let us briefly discuss why Bitcoin as a medium of exchange or store of value belies the real value of the right to own property simply by individual choice and monetary decree.
+Bitcoin is often discussed in the context of money because of the unit of account miners create during the [mining process](https://www.investopedia.com/terms/b/bitcoin-mining.asp){:target="_blank"}. This unit of account is a portable, fungible, divisible, incorruptible, if expensive, medium of exchange, but may be used as a store of value. There are reasons for this function. Bitcoin's development methodology and by extension its blockchain [prioritizes security](https://en.bitcoin.it/wiki/Protocol_documentation){:target="_blank"}. This means the community culture prioritizes security, demonstrated in Bitcoin's obstinance to be the faster, cheaper blockchain. The truncated blocksize debate aside, there is real success here to this production. Bitcoin managed to create the most valuable digital real estate on the planet. Let us briefly discuss why Bitcoin as a medium of exchange or store of value belies the real value of the right to own property simply by individual choice and monetary decree.
 
 First, to say "I have bitcoins" is something of a misnomer. What you have is access to an address in a database. The database stores data made up of [bits](https://en.wikipedia.org/wiki/Bit){:target="_blank"} that may be equated and denominated into something resembling money. This is similar to how your local bank denominates the data in your checking account, which are also computer bits in their database. For security reasons, a bank rarely keeps tens of millions of paper dollars at your corner branch for its patrons.
 
@@ -15,7 +20,7 @@ The most valuable money it would stand to reason should be the money whose datab
 
 A finite amount of property exists in any given space. Assuming improvement of the surrounding environment, the property within the space may enjoy an increase in value simply because of its location. If said property itself were useful to an interested party, the property may enjoy manifold returns in value for its location to an improving environment and for its usefulness. Imagine owning a small piece of property on Park Avenue in Manhattan circa 1870.
 
-The railroad tracks on Fourth Avenue were first being covered over by pavement to make way for pedestrians and brownstones. Now imagine living long enough to see The Waldorf Astoria, UBS, The Harold Pratt House, and 432 Penthouse go up. Your small property would be worth a large fortune. The surrounding environment of New York City saw unparalleled investment in business infrastructure over the next 147 years. Finally, the utility of what you built in those days would likely be outmoded, today. But you would have refreshing optionality to sell or even rent your property. Bitcoin's database benefits from being a technology, meaning it is prime location to an improving surrounding environment, in this case the technology industry. What gets built on this property will be new, diverse, kaleidoscopic, but at the discretion of those who have an address.</p>
+The railroad tracks on Fourth Avenue were first being covered over by pavement to make way for pedestrians and brownstones. Now imagine living long enough to see The Waldorf Astoria, UBS, The Harold Pratt House, and 432 Penthouse go up. Your small property would be worth a large fortune. The surrounding environment of New York City saw unparalleled investment in business infrastructure over the next 147 years. Finally, the utility of what you built in those days would likely be outmoded, today. But you would have refreshing optionality to sell or even rent your property. Bitcoin's database benefits from being a technology, meaning it is prime location to an improving surrounding environment, in this case the technology industry. What gets built on this property will be new, diverse, kaleidoscopic, but at the discretion of those who have an address.
 
 
 ## Trust-Minimization
