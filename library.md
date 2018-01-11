@@ -1,6 +1,6 @@
 # Library
 
-###### [Back](<a href="index"</a>)
+###### [Back](http://www.beginners.academy/about)
 
 ## Original Whitepaper
 
