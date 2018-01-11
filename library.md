@@ -18,7 +18,7 @@ Creator of Bitcoin
 Getting started
 
 
-### [Bitcoin Lecture (Princeton)](http://bitcoinbook.cs.princeton.edu){:target="_blank"}
+### [Bitcoin Book and Video Lectures (Princeton)](http://bitcoinbook.cs.princeton.edu){:target="_blank"}
 Blockchain mechanics and video series
 
 
