@@ -1,21 +1,21 @@
-<svg width="157" height="192" viewBox="0 0 157 192" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="108" height="131" viewBox="0 0 108 131" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <title>Group</title>
 <desc>Created using Figma</desc>
-<g id="Canvas" transform="translate(156 186)">
+<g id="Canvas" transform="translate(125 210)">
 <g id="Group">
 <g id="Rectangle 2" filter="url(#filter0_d)">
-<use xlink:href="#path0_fill" transform="matrix(0.798164 0.60244 -0.60244 0.798164 -51.1 -185.2)" fill="#EB5757" fill-opacity="0.87"/>
+<use xlink:href="#path0_fill" transform="matrix(0.798164 0.60244 -0.60244 0.798164 -53.4 -209.8)" fill="#EB5757" fill-opacity="0.87"/>
 </g>
 <g id="Rectangle 3">
-<use xlink:href="#path1_fill" transform="matrix(0.797136 0.6038 -0.6038 0.797136 -70.144 -160)" fill="#F2C94C"/>
+<use xlink:href="#path1_fill" transform="matrix(0.797135 0.6038 -0.6038 0.797136 -66.096 -193)" fill="#F2C94C"/>
 </g>
 <g id="Polygon" filter="url(#filter1_d)">
-<use xlink:href="#path2_fill" transform="matrix(-0.798295 -0.602267 0.602267 -0.798295 -125.428 17.3814)" fill="#F2C94C" fill-opacity="0.7"/>
+<use xlink:href="#path2_fill" transform="matrix(-0.798295 -0.602267 0.602267 -0.798295 -102.952 -74.7457)" fill="#F2C94C" fill-opacity="0.7"/>
 </g>
 </g>
 </g>
 <defs>
-<filter id="filter0_d" filterUnits="userSpaceOnUse" x="-74" y="-186" width="75" height="69" color-interpolation-filters="sRGB">
+<filter id="filter0_d" filterUnits="userSpaceOnUse" x="-70" y="-210" width="53" height="49" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 0"/>
 <feOffset dx="0" dy="4"/>
@@ -24,7 +24,7 @@
 <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
 <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
 </filter>
-<filter id="filter1_d" filterUnits="userSpaceOnUse" x="-156" y="-63" width="64" height="69" color-interpolation-filters="sRGB">
+<filter id="filter1_d" filterUnits="userSpaceOnUse" x="-125" y="-129" width="46" height="50" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 0"/>
 <feOffset dx="0" dy="4"/>
@@ -33,8 +33,8 @@
 <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
 <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
 </filter>
-<path id="path0_fill" d="M 0 0L 60 0L 60 30L 0 30L 0 0Z"/>
-<path id="path1_fill" d="M 0 0L 60 0L 60 120L 0 120L 0 0Z"/>
-<path id="path2_fill" d="M 33 0L 61.5788 54L 4.42116 54L 33 0Z"/>
+<path id="path0_fill" d="M 0 0L 40 0L 40 20L 0 20L 0 0Z"/>
+<path id="path1_fill" d="M 0 0L 40 0L 40 80L 0 80L 0 0Z"/>
+<path id="path2_fill" d="M 22 0L 41.0526 36L 2.94744 36L 22 0Z"/>
 </defs>
 </svg>
