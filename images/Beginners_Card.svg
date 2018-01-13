@@ -1,19 +1,18 @@
-<svg width="500" height="500" viewBox="0 0 500 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="400" height="400" viewBox="0 0 400 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <title>Beginners Card</title>
 <desc>Created using Figma</desc>
-<g id="Canvas" transform="translate(2427 1114)">
-<rect x="-2427" y="-1114" width="500" height="500" fill="#E5E5E5"/>
+<g id="Canvas" transform="translate(2373 1060)">
 <g id="Group">
 <g id="Ellipse">
-<use xlink:href="#path0_fill" transform="translate(-2427 -1114)" fill="#F2C94C"/>
+<use xlink:href="#path0_fill" transform="translate(-2373 -1060)" fill="#F2C94C"/>
 </g>
 <g id="Polygon">
-<use xlink:href="#path1_fill" transform="translate(-2327 -1014)" fill="#FFFFFF"/>
+<use xlink:href="#path1_fill" transform="translate(-2273 -960)" fill="#FFFFFF"/>
 </g>
 </g>
 </g>
 <defs>
-<path id="path0_fill" d="M 500 250C 500 388.071 388.071 500 250 500C 111.929 500 0 388.071 0 250C 0 111.929 111.929 0 250 0C 388.071 0 500 111.929 500 250Z"/>
-<path id="path1_fill" d="M 150 0L 279.904 225L 20.0962 225L 150 0Z"/>
+<path id="path0_fill" d="M 400 200C 400 310.457 310.457 400 200 400C 89.5431 400 0 310.457 0 200C 0 89.5431 89.5431 0 200 0C 310.457 0 400 89.5431 400 200Z"/>
+<path id="path1_fill" d="M 100 0L 186.603 150L 13.3975 150L 100 0Z"/>
 </defs>
 </svg>
