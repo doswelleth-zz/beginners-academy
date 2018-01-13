@@ -62,6 +62,10 @@ The economics of Bitcoin deftly explained
 Andreas Antonopoulos delves into the why of Bitcoin
 
 
+### [The Truth Machine](https://www.amazon.com/Truth-Machine-Blockchain-Future-Everything/dp/1250114578?SubscriptionId=AKIAILSHYYTFIVPWUY6Q&tag=duckduckgo-d-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=1250114578){:target="_blank"}
+Michael J. Casey & Paul Vigna return to discuss Blockchain's potential
+
+
 
 ## Cold Wallets
 
