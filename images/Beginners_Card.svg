@@ -1,17 +1,45 @@
-<svg width="400" height="400" viewBox="0 0 400 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="408" height="408" viewBox="0 0 408 408" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <title>Beginners Card</title>
 <desc>Created using Figma</desc>
-<g id="Canvas" transform="translate(2373 1060)">
+<g id="Canvas" transform="translate(2377 1060)">
 <g id="Group">
-<g id="Ellipse">
+<g id="Ellipse" filter="url(#filter0_dd)">
 <use xlink:href="#path0_fill" transform="translate(-2373 -1060)" fill="#F2C94C"/>
 </g>
-<g id="Polygon">
+<g id="Polygon" filter="url(#filter1_dd)">
 <use xlink:href="#path1_fill" transform="translate(-2273 -960)" fill="#FFFFFF"/>
 </g>
 </g>
 </g>
 <defs>
+<filter id="filter0_dd" filterUnits="userSpaceOnUse" x="-2377" y="-1060" width="408" height="408" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 0"/>
+<feOffset dx="0" dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 0"/>
+<feOffset dx="0" dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="effect1_dropShadow" result="effect2_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect2_dropShadow" result="shape"/>
+</filter>
+<filter id="filter1_dd" filterUnits="userSpaceOnUse" x="-2264" y="-960" width="182" height="158" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 0"/>
+<feOffset dx="0" dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 0"/>
+<feOffset dx="0" dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="effect1_dropShadow" result="effect2_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect2_dropShadow" result="shape"/>
+</filter>
 <path id="path0_fill" d="M 400 200C 400 310.457 310.457 400 200 400C 89.5431 400 0 310.457 0 200C 0 89.5431 89.5431 0 200 0C 310.457 0 400 89.5431 400 200Z"/>
 <path id="path1_fill" d="M 100 0L 186.603 150L 13.3975 150L 100 0Z"/>
 </defs>
