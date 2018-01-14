@@ -150,7 +150,7 @@ Austerity is unpopular politically. Admonishing consumers to save is scolding li
 
 A more attractive solution is migrating the American citizen from Consumer to Participant. By this I mean, society creating something resembling a modern hedge fund where average tax-paying citizens may be investing partners.
 
-I believe it is technologically feasible to create a basic income architecture with Bitcoin.
+I believe it is technologically feasible to create a market-based, basic income architecture with Bitcoin.
 
 American households would participate in solar-powered mining pools owned by residents and the city. Residents would have mobile wallets like today except with mining data and controls for adjusting everything from energy expenditure to what pools have the best rates. States would compete to see who has the greenest and most profitable pools for bragging rights and tax incentives.
 
