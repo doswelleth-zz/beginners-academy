@@ -162,11 +162,11 @@ Such an architecture would allow for better tracking of where consumers are gett
 
 Another argument would be on the modernity of government, perceived as timid and out-of-touch, with a focus on family and prosperity, which graphically aligns with their public morality.
 
-American households would learn not only the value of creating wealth as a family but what it means to be one with your neighbors. This can be done from any home or apartment, as energy expenditure is low and paid for by energy consumed from the sun provided by the city. You just need the appliances. Families may mine, route, or both, for fees, with little configuration and no effort.
+American households would learn not only the value of creating wealth as a family but what it means to be one with your neighbors. This can be done from any home or apartment, as energy expenditure is low and paid for by energy consumed from the sun, distilled and further provided by the city. You just need the appliances. Families may mine Bitcoin on autopilot for fees. Payment routing as another income stream has even more potential, in my opinion, and with [little configuration and no daily effort](https://lightning.network){:target="_blank"}.
 
 Imagine commercials with a young girl on her mother's lap pointing at the screen asking questions about the family mining operation. Politicians arguing today for basic income as a safety net would give way to the rhetoric of building American wealth to end poverty. This would be intoxicating but this time within arm's reach. Literally.
 
-Retail banking should move to the American household. A decentralized network of computers verifying the transactions of millions of people across the world already exists, successfully, with Bitcoin. Just not yet on a micro scale.
+Retail banking should move to the American household. A decentralized network of computers verifying the transactions of millions for people across the world already exists, successfully, with Bitcoin.
 
 A decentralized financial system, with the option to share data with interested parties, is a confident first step toward a universal basic income without further mismanaging privacy or the tax code.
 
