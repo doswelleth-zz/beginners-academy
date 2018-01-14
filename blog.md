@@ -170,7 +170,7 @@ Imagine commercials with a young girl on her mother's lap pointing at the screen
 
 This would be intoxicating but this time within arm's reach. Literally.
 
-Retail banking should move to the American household. A decentralized network of computers verifying the transactions of millions for people across the world already exists, successfully, with Bitcoin.
+Retail banking should move to the American household. A decentralized network of computers verifying the transactions for millions of people across the world already exists, successfully, with Bitcoin.
 
 A decentralized financial system, with the option to share data with interested parties, is a confident first step toward a universal basic income without further mismanaging privacy or the tax code.
 
