@@ -162,7 +162,9 @@ Such an architecture would allow for better tracking of where consumers are gett
 
 Another argument would be on the modernity of government, perceived as timid and out-of-touch, with a focus on family and prosperity, which graphically aligns with their public morality.
 
-American households would learn not only the value of creating wealth as a family but what it means to be one with your neighbors. This can be done from any home or apartment, as energy expenditure is low and paid for by energy consumed from the sun, distilled and further provided by the city. You just need the appliances. Families may mine Bitcoin on autopilot for fees. Payment routing as another income stream has even more potential, in my opinion, and with [little configuration and no daily effort](https://lightning.network){:target="_blank"}.
+American households would learn not only the value of creating wealth as a family but what it means to be one with your neighbors. This can be done from any home or apartment, as energy expenditure is low and paid for by energy consumed from the sun, distilled and further provided by the city. You just need the appliances.
+
+Families may mine Bitcoin on autopilot for a share of the [block reward](https://www.bitcoinmining.com/what-is-the-bitcoin-block-reward/). Payment routing as another income stream has even more potential, in my opinion, and with [little configuration and no daily effort](https://lightning.network){:target="_blank"}.
 
 Imagine commercials with a young girl on her mother's lap pointing at the screen asking questions about the family mining operation. Politicians arguing today for basic income as a safety net would give way to the rhetoric of building American wealth to end poverty. This would be intoxicating but this time within arm's reach. Literally.
 
