@@ -158,7 +158,7 @@ It is also a non-controversial path to [renewable energy investments](https://co
 
 I believe the 21st century appliance boom should be [energy-efficient full nodes](http://bitseed.org){:target="_blank"}, [elegant mining hardware](https://halongmining.com){:target="_blank"}, and [small satellites](https://blockstream.com/satellite/){:target="_blank"}, as modems, routers and monitors, were in the 20th century. This would not only prove politically popular with constituents but also with politicians.
 
-Such an architecture would allow for better tracking of where consumers are getting bitcoins but not necessarily what they're doing with them. (If you're new to this blog, the depth of disgust I have for this idea is subterranean. I mention it only as a potential scalable outcome). A privacy option to participate in mining and/or routing, and not share in tax incentives, is only slightly better and could be provided.
+Such an architecture would allow for better tracking of where consumers are getting bitcoins but not necessarily what they're doing with them. (If you're new to this blog, I do not personally support this idea. I mention it only as a potential scalable outcome). A privacy option to participate in mining and/or routing, and not share in tax incentives, is only slightly better and could be provided.
 
 Another argument would be on the modernity of government, perceived as timid and out-of-touch, with a focus on family and prosperity, which graphically aligns with their public morality.
 
