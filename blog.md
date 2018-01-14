@@ -1,5 +1,7 @@
 # Blog
 
+###### [Back](http://www.beginners.academy/about)
+
 ## The Property Analogy
 ##### David Oliver Doswell
 
@@ -22,6 +24,9 @@ A finite amount of property exists in any given space. Assuming improvement of t
 The railroad tracks on Fourth Avenue were first being covered over by pavement to make way for pedestrians and brownstones. Now imagine living long enough to see The Waldorf Astoria, UBS, The Harold Pratt House, and 432 Penthouse go up. Your small property would be worth a large fortune. The surrounding environment of New York City saw unparalleled investment in business infrastructure over the next 147 years.
 
 Finally, the utility of what you built in those days would likely be outmoded, today. But you would have refreshing optionality to sell or even rent your property. Bitcoin's database benefits from being a technology, meaning it is prime location to an improving surrounding environment, in this case the technology industry. What gets built on this property over the next 147 years will be at the discretion of the residents, namely the possessors of the addresses.
+
+
+###### [Back](http://www.beginners.academy/about)
 
 
 ## Trust-Minimization
