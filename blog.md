@@ -169,29 +169,35 @@ Austerity is unpopular politically. Admonishing consumers to save is scolding li
 
 A more attractive solution is migrating the American citizen from Consumer to Participant. By this I mean, society creating something resembling a modern hedge fund where average tax-paying citizens may be investing partners.
 
-I believe it is technologically feasible to create a passive income architecture with Bitcoin. I imagine this as the market-based solution to a more political Universal Basic Income. 
+I believe it is technologically feasible to create a passive income architecture with Bitcoin. I imagine this as the market-based solution to a more political Universal Basic Income.
 
-American households would participate in solar-powered mining pools owned by residents and the city. Residents would have mobile wallets like today except with mining data and controls for adjusting everything from energy expenditure to what pools have the best rates. States would compete to see who has the greenest and most profitable pools for bragging rights and tax incentives.
+American households could participate in solar-powered mining pools owned by residents and the city. Residents would have mobile wallets like today except with mining data and controls for adjusting everything from energy expenditure to what pools have the best rates. States would compete to see who has the greenest and most profitable pools for bragging rights and tax incentives.
 
-It is also a non-controversial path to [renewable energy investments](https://coincenter.org/entry/how-bitcoin-could-drive-the-clean-energy-revolution){:target="_blank"}.
+It may also be a non-controversial path to [renewable energy infrastructure investment](https://coincenter.org/entry/how-bitcoin-could-drive-the-clean-energy-revolution){:target="_blank"}.
 
-I believe the 21st century appliance boom should be [energy-efficient full nodes](http://bitseed.org){:target="_blank"}, [elegant mining hardware](https://halongmining.com){:target="_blank"}, and [small satellites](https://blockstream.com/satellite/){:target="_blank"}, as modems, routers and monitors, were in the 20th century. This would not only prove politically popular with constituents but also with politicians.
+The foundation is to continue building the family home on the consumer appliance. I believe the 21st century appliance boom should be [energy-efficient, plug-and-play Bitcoin nodes](http://bitseed.org){:target="_blank"}, [elegant mining hardware](https://halongmining.com){:target="_blank"}, and even [small satellites](https://blockstream.com/satellite/){:target="_blank"} for neighborhoods, as modems, routers and electrical grids, were in the 20th century.
 
-Such an architecture would allow for better tracking of where consumers are getting bitcoins but not necessarily what they're doing with them. (If you're new to this blog, I do not personally support this idea. I mention it only as a potential scalable outcome). A privacy option to participate in mining and/or routing, and not share in tax incentives, is only slightly better and could be provided.
+This would not only prove politically popular with constituents but also with politicians.
 
-Another argument would be on the modernity of government, perceived as timid and out-of-touch, with a focus on family and prosperity, which graphically aligns with their public morality.
+Such an architecture would allow for some insight into how consumers are organizing bitcoins but not necessarily what they're doing with them. (If you're new to this blog, you should know I do not personally support government surveillance, intervention or unnecessary regulation. I mention the State participating at the local level only as a potential scalable outcome).
 
-American households would learn not only the value of creating wealth as a family but what it means to be one with your neighbors. This can be done from any home or apartment, as energy expenditure is low and paid for by energy consumed from the sun, distilled and further provided by the city. You just need the appliances.
+A privacy option to participate in public mining and not share in tax incentives is only a slightly better market solution but could be provided.
 
-Families may mine Bitcoin on autopilot for a share of the [block reward](https://www.bitcoinmining.com/what-is-the-bitcoin-block-reward/){:target="_blank"}. Payment routing as another income stream has even more potential, in my opinion, and with [little configuration and no daily effort](https://lightning.network){:target="_blank"}.
+Another argument would be on the modernity of government. Young people (people, generally, I would argue) perceive the State as ineffectual, timid and out-of-touch. A focus on the family and their direct prosperity graphically aligns with their public morality.
 
-Imagine commercials with a young girl on her mother's lap pointing at the screen asking questions about the family mining operation. Politicians arguing today for basic income as a safety net would give way to the rhetoric of building American wealth to end poverty.
+American households would learn not only the value of creating wealth as a family but what it means to be one with your neighbors. There is a common conversation in America which is indirectly scaling financial literacy. This can be done from any home or apartment, whether single or married, as energy expenditure from the right product would be low and ultimately paid for by energy consumed from the sun, further distilled and offered by the city. You just need the appliances.
 
-This would be intoxicating but this time within arm's reach. Literally.
+Families may mine Bitcoin on autopilot for shares of the [block reward](https://www.bitcoinmining.com/what-is-the-bitcoin-block-reward/){:target="_blank"}.
 
-Retail banking should move to the American household. A decentralized network of computers verifying the transactions for millions of people across the world already exists, successfully, with Bitcoin.
+Payment routing as another income stream has even more potential, with [little configuration and no daily effort](https://lightning.engineering){:target="_blank"}.
 
-A decentralized financial system, with the option to share data with interested parties, is a confident first step toward something resembling a universal basic income without further mismanaging privacy or the tax code.
+Imagine commercials with a young girl on her mother's lap pointing at the screen asking questions about the family's mining operation. Ambitious politicians arguing today for basic income as a safety net could campaign on the rhetoric of building American wealth to end poverty.
+
+This would be intoxicating to constituents but this time within a voter's arm's reach.
+
+*Retail banking should migrate to the family household.* A decentralized network of computers verifying the transactions for millions of people across the world already exists, successfully, with Bitcoin.
+
+A decentralized financial system, with the option to share data with interested parties, is a confident first step toward something resembling a universal basic income, without further mismanaging privacy or the tax code.
 
 
 ###### [Back](http://www.beginners.academy/blog)
