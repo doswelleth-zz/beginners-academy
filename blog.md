@@ -191,6 +191,8 @@ Families may mine Bitcoin on autopilot for shares of the [block reward](https://
 
 Payment routing as another income stream has even more potential, with [little configuration and no daily effort](https://lightning.engineering){:target="_blank"}. Lightning Network nodes may route payments as banks do today. There was more configuration setting up my mother's [Roku](https://www.roku.com/index) than there is setting up a [Lightning full node and wallet](https://www.youtube.com/watch?v=dhpg_8D2FPI).
 
+As running a full node is incentivized, the cost for running a node is absorbed in the fees earned with any residual income as profit for the server.
+
 Imagine commercials with a young girl on her mother's lap pointing at the screen asking questions about the family's mining and banking operations. Ambitious politicians arguing today for basic income as a safety net could campaign on the rhetoric of building American wealth to end poverty.
 
 This would be intoxicating to constituents but this time within a voter's arm's reach.
