@@ -165,10 +165,6 @@ This process and computer network together is called [Bitcoin: a peer-to-peer el
 
 ##### December 3, 2017
 
-Austerity is unpopular politically. Admonishing consumers to save is scolding lions to silence. It is counterintuitive and produces the opposite of the desired outcome. In America, you get rubbish political candidates, at best. At worst, conversations with your co-workers while sober.
-
-A more attractive solution is migrating the American citizen from Consumer to Participant. By this I mean, society creating something resembling a modern hedge fund where average tax-paying citizens may be investing partners.
-
 I believe it is technologically feasible to create a passive income architecture with Bitcoin. I imagine this as the market-based solution to a more political Universal Basic Income.
 
 American households could participate in solar-powered mining pools owned by residents and the city. Residents would have mobile wallets like today except with mining data and controls for adjusting everything from energy expenditure to what pools have the best rates. States would compete to see who has the greenest and most profitable pools for bragging rights and tax incentives.
