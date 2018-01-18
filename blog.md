@@ -175,7 +175,7 @@ American households could participate in solar-powered mining pools owned by res
 
 It may also be a non-controversial path to [renewable energy infrastructure investment](https://coincenter.org/entry/how-bitcoin-could-drive-the-clean-energy-revolution){:target="_blank"}.
 
-The foundation is to continue building the family home on the consumer appliance. I believe the 21st century appliance boom should be [energy-efficient, plug-and-play Bitcoin nodes](http://bitseed.org){:target="_blank"}, [elegant mining hardware](https://halongmining.com){:target="_blank"}, and even [small satellites](https://blockstream.com/satellite/){:target="_blank"} for neighborhoods, as modems, routers and electrical grids, were in the 20th century.
+The foundation is to continue building the family home on the consumer appliance. I believe the 21st century appliance boom should be [energy-efficient, plug-and-play Bitcoin nodes](http://bitseed.org){:target="_blank"}, [elegant mining hardware](https://halongmining.com){:target="_blank"}, and even [small satellites](https://blockstream.com/satellite/){:target="_blank"} for neighborhoods, as modems, routers and electrical grids were in the 20th century.
 
 This would not only prove politically popular with constituents but also with politicians.
 
@@ -189,13 +189,13 @@ American households would learn not only the value of creating wealth as a famil
 
 Families may mine Bitcoin on autopilot for shares of the [block reward](https://www.bitcoinmining.com/what-is-the-bitcoin-block-reward/){:target="_blank"} without relying on petroleum as an energy source.
 
-Payment routing as another income stream has even more potential, with [little configuration and no daily effort](https://lightning.engineering){:target="_blank"}.
+Payment routing as another income stream has even more potential, with [little configuration and no daily effort](https://lightning.engineering){:target="_blank"}. Lightning Network nodes may route payments as banks do today. There was more configuration setting up my mother's [Roku](https://www.roku.com/index) than there is setting up a [Lightning full node and wallet](https://www.youtube.com/watch?v=dhpg_8D2FPI).
 
-Imagine commercials with a young girl on her mother's lap pointing at the screen asking questions about the family's mining operation. Ambitious politicians arguing today for basic income as a safety net could campaign on the rhetoric of building American wealth to end poverty.
+Imagine commercials with a young girl on her mother's lap pointing at the screen asking questions about the family's mining and banking operations. Ambitious politicians arguing today for basic income as a safety net could campaign on the rhetoric of building American wealth to end poverty.
 
 This would be intoxicating to constituents but this time within a voter's arm's reach.
 
-Retail banking should migrate to the family household. Much of what is performed by banking institutions with databases and exogenous fee structures may be automated and captured by the family investor.
+Retail banking should migrate to the family household. Much of what is performed by banking institutions with databases and extraneous fee structures may be automated and captured by the family investor.
 
 A decentralized network of computers verifying the transactions for millions of people around the world already exists, successfully, with Bitcoin.
 
