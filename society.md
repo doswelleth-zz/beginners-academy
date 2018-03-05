@@ -12,7 +12,7 @@ Forum for subscribers
 Open monthly gathering
 
 ## Podcast
-Bitcoin subscriber community
+Bitcoin community
 
 ## <a href="https://twitter.com/beginacademy" target="_blank">Twitter</a>
 Follow us on Twitter
