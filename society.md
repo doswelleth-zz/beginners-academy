@@ -6,7 +6,7 @@
 Beginners Academy blog
 
 ## Community
-Forums for subscribers
+Forum for subscribers
 
 ## Meet Up
 Open monthly gathering
