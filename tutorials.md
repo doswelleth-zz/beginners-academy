@@ -2,7 +2,7 @@
 
 ## Basics
 
-## How to Set Segwit Wallet Fees
+## How to Set Native Segwit Wallet Fees
 Getting started with Digital BitBox
 
 ## How to Buy Bitcoin from Bitstamp
