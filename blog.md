@@ -66,6 +66,9 @@ However, should these "DAPP" (Decentralized APPlication) projects seek to found 
 That is not the responsibility of Bitcoin. Bitcoin elegantly replaced them.
 
 
+###### [Back](http://www.beginners.academy/blog)
+
+
 ## The Property Analogy
 ##### David Oliver Doswell
 
