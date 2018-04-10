@@ -64,9 +64,9 @@ That is to say, bitcoin is a digital commodity money enabling the creation of di
 
 To create your money or money project on the internet, it is best you use bitcoins as both your fundraising mechanism and your store-of-value, in the event your project folds and you are honest enough to renumerate investors. Bitcoin enables free markets by enabling the creation of freely competitive market money.
 
-Applications built atop Ethereum are another matter, so long as they use the ERC20 or some other Ethereum technical standard.
+Applications built atop Ethereum are some other matter, so long as they use the ERC20 or some other Ethereum technical standard.
 
-However, should these Ethereum "DAPP" (Decentralized APPlication) projects seek to found their own blockchains, Bitcoin is the internet's secure global standard for crowdsourcing your project. Conservative development by the Bitcoin Core software development team turned out to be the smart technological and investment decision.
+However, should any of these Ethereum "DAPP" (Decentralized APPlication) projects seek to found their own blockchains, Bitcoin is the internet's secure global standard for crowdsourcing your project. Conservative development by the Bitcoin Core software development team turned out to be the smart technological and investment decision.
 
 The internet officially, according to the market, has its own money and technical standards to fasten and propel any cryptocurrency project that may seek to improve the political or financial system.
 
