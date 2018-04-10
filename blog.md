@@ -26,7 +26,7 @@ People would prefer more privacy than less. People would prefer of their own vol
 
 People should, too, then have the respect of being addressed and appropriated based on their requests. These ideas, while free-thinking and info-modern, maximize trust in the individual and minimize the necessity to trust in others.
 
-It is counterintuitive but think about what strengthens a system and the relationships between individuals within a system over time. Strong people enforce strong realities and have the capacity to maintain strong relationships. The transition from dependence on trusted-third parties to decentralized crypto-systems maintained by strong participating actors is a work in progress.
+It is counterintuitive but this is what strengthens a system and the relationships between individuals within a system over time. Strong people enforce strong realities and have the capacity to maintain strong relationships. The transition from dependence on trusted-third parties to decentralized crypto-systems maintained by strong participating actors is a work in progress.
 
 Systems are, after all, easier to design than psychologies. However, better systems are required.
 
