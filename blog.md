@@ -8,7 +8,7 @@
 
 The Bitcoin blockchain is the most advanced, battle-tested database in production. It is the only immutable record of history in the world, a global supercomputer ensuring no participating actor may cheat the system, forge a signature, or steal any units of account.
 
-It is more deeply an information system of [secure property with owner authority](http://nakamotoinstitute.org/secure-property-titles/){:target="_blank"}, a socially scalable identity system.
+It is more deeply an information system of [secure property with owner authority](http://nakamotoinstitute.org/secure-property-titles/){:target="_blank"}, mapping properties (and their transfer, division, and merging) to [public keypairs](https://en.wikipedia.org/wiki/Public-key_cryptography){:target="_blank"} and controlling those operations with said keys.
 
 This system is not easily subjected to hard forking its core protocol because of market demand. Bitcoin is not a company, a product, or a service (barring conventional uses of the word "service"). The system is not hierarchical, centralized, or expedient.
 
