@@ -44,7 +44,7 @@ Public and private blockchain experiments, however ambitious, criminal, or sopho
 
 In the mid 1640s, Charles I of England, who believed in the "divine right of kings," [confiscated 130,000 pounds of silver bullion from the Royal Mint](https://en.wikipedia.org/wiki/Charles_I_of_England){:target="_blank"}, calling it "a loan" at 8%.
 
-Although returned, Goldsmiths were spooked and began withdrawing their gold from the Royal Mint out of fear of future confiscation. Goldsmiths immediately began storing gold in their personal coffers inside private warehouses in London.
+Although returned, goldsmiths were spooked and began withdrawing their gold from the Royal Mint out of fear of future confiscation. Goldsmiths immediately began storing gold in their personal coffers inside private warehouses in London.
 
 Their clients, too, were satisfied and could easily deposit their gold with a goldsmith, receive a deposit receipt, and crack on. The counterfeiting of deposit receipts from these warehouses not surprisingly were circulated and modeled currency for the street.
 
@@ -66,9 +66,9 @@ Applications built atop Ethereum are another matter, so long as they use the ERC
 
 However, should these "DAPP" (Decentralized APPlication) projects seek to found their own blockchains, Bitcoin is the internet's secure global standard for crowdsourcing your project. Conservative development by the Bitcoin Core software development team turned out to be the smart technological and investment decision.
 
-The internet officially, according to the market, has its own money and technical standards to fasten and propel any cryptocurrency project that may seek to improve the political and financial system.
+The internet officially, according to the market, has its own money and technical standards to fasten and propel any cryptocurrency project that may seek to improve the political or financial system.
 
-However, that is not the responsibility of Bitcoin. Bitcoin [replaces the Royal Mint](https://bitcoin.org/bitcoin.pdf){:target="_blank"}.
+However, that is not the role of Bitcoin. [Bitcoin replaces the Royal Mint](https://bitcoin.org/bitcoin.pdf){:target="_blank"}.
 
 
 ###### [Back](http://www.beginners.academy/blog)
