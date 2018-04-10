@@ -60,7 +60,7 @@ Ethereum, Tezos, and other thin-fat protocol projects that enable novel smart co
 
 Bitcoin is [sound money](https://mises.org/library/principle-sound-money){:target="_blank"} as gold before it is [hard money](https://en.wikipedia.org/wiki/Hard_money_(policy)){:target="_blank"}.
 
-Bitcoin is a digital commodity money enabling the creation of digital [representative money](https://en.wikipedia.org/wiki/Representative_money){:target="_blank"}. This is not unlike the physical commodity money gold enabling the creation of country economies with [fiat monies](https://en.wikipedia.org/wiki/Fiat_money){:target="_blank"}.  
+That is to say, bitcoin is a digital commodity money enabling the creation of digital [representative money](https://en.wikipedia.org/wiki/Representative_money){:target="_blank"}. This is not unlike the physical commodity money gold enabling the creation of country economies with [fiat monies](https://en.wikipedia.org/wiki/Fiat_money){:target="_blank"}.  
 
 To create your money or money project on the internet, it is best you use bitcoins as both your fundraising mechanism and your store-of-value, in the event your project folds and you are honest enough to renumerate investors. Bitcoin enables free markets by enabling the creation of freely competitive market money.
 
