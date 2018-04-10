@@ -14,7 +14,7 @@ This system is not easily subjected to hard forking its core protocol because of
 
 Any person or organization may participate in the system and be equal to every other person or organization in the system, were they willing to contribute the same amount of value of said persons or organizations.
 
-So why would any of this be valuable?
+There is something, too, uniquely relevant to the timing of the invention.
 
 Bitcoin is a not democracy and is not designed to improve the current political or financial system.
 
@@ -46,7 +46,7 @@ In the mid 1640s, Charles I of England, who believed in the "divine right of kin
 
 Although returned, goldsmiths were spooked and began withdrawing their gold from the Royal Mint out of fear of future confiscation. Goldsmiths immediately began storing gold in their personal coffers inside private warehouses in London.
 
-Their clients, too, were satisfied and could easily deposit their gold with a goldsmith, receive a deposit receipt, and crack on. The counterfeiting of deposit receipts from these warehouses not surprisingly were circulated and modeled currency for the street.
+Holders of gold, too, were satisfied and could easily deposit their gold with a goldsmith, receive a deposit receipt, and crack on. The counterfeiting of deposit receipts from these warehouses, not surprisingly, were circulated and modeled currency for the street.
 
 In this way, fractional reserve banking was introduced to England.       
 
@@ -54,13 +54,13 @@ Things worsen as the needs for small business denominations of Royal Copper coin
 
 While not officially acknowledged by the Royal Mint (they were swiftly outlawed some decades later), they were integral to the success of Industrial Revolutionary England.
 
-Workers could be paid for services rendered. Coins were fungible between butcher and baker, as their shops were owned and operated by earnest and production-ready shopkeepers. There was no central bank until [1694](https://en.wikipedia.org/wiki/Bank_of_England){:target="_blank"} and even then these tokens were the standard of the bourgeois class for several decades hence.
+Workers could be paid for services rendered. Coins were fungible between butcher and baker, as their shops were owned and operated by earnest and production-ready shopkeepers. There was no central bank of England until [1694](https://en.wikipedia.org/wiki/Bank_of_England){:target="_blank"} and even then these tokens were the standard of the bourgeois class for several decades hence.
 
 Ethereum, Tezos, and other thin-fat protocol projects that enable novel smart contract logic or innovative governance models for blockchains are, in the end, good for Bitcoin investors.
 
-Bitcoin is [sound money](https://mises.org/library/principle-sound-money){:target="_blank"} as gold before it is [hard money](https://en.wikipedia.org/wiki/Hard_money_(policy)){:target="_blank"}. Bitcoin is a digital commodity money enabling the creation of digital representative money. This is not unlike the physical commodity money gold enabling the creation of country economies with representative and fiat monies.  
+Bitcoin is [sound money](https://mises.org/library/principle-sound-money){:target="_blank"} as gold before it is [hard money](https://en.wikipedia.org/wiki/Hard_money_(policy)){:target="_blank"}. Bitcoin is a digital commodity money enabling the creation of digital [representative money](). This is not unlike the physical commodity money gold enabling the creation of country economies with representative and fiat monies.  
 
-To create your money or money project on the internet, it is best you use bitcoin as both your fundraising mechanism and your store-of-value, in the event your project folds and you are honest enough to renumerate investors. Bitcoin enables free markets by enabling the creation of freely competitive market money.
+To create your money or money project on the internet, it is best you use bitcoins as both your fundraising mechanism and your store-of-value, in the event your project folds and you are honest enough to renumerate investors. Bitcoin enables free markets by enabling the creation of freely competitive market money.
 
 Applications built atop Ethereum are another matter, so long as they use the ERC20 or some other Ethereum technical standard.
 
