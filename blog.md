@@ -14,7 +14,7 @@ This system is not easily subjected to hard forking its core protocol because of
 
 Any person or organization may participate in the system and be equal to every other person or organization in the system, were they willing to contribute the same amount of value of said persons or organizations.
 
-So why would any of this be valuable to an internet economy?
+So why would any of this be valuable?
 
 Bitcoin is a not democracy and is not designed to improve the current political or financial system.
 
@@ -32,7 +32,7 @@ Strong people enforce strong realities and have the capacity to maintain strong 
 
 Systems are, after all, easier to design than psychologies. However, better systems are required.
 
-I believe education, mentorship, and good design (better defaults in software and hardware development) are antecedents to this physical pro-form. Bitcoin will be the foundational reality of our digital economic epoch. Here's why:
+Education, mentorship, and good design (better defaults in software and hardware development) are antecedents to this physical pro-form. Bitcoin is the foundational reality of this new digital epoch. Here's why:
 
 January 2017 saw the beginning of the end of public banking. The [ICO ("initial coin offering")](https://cointelegraph.com/explained/ico-explained){:target="_blank"} boom year saw public blockchain experiments [financing their crowdsourced crypto projects with bitcoins](https://www.tezos.com/help){:target="_blank"}.
 
