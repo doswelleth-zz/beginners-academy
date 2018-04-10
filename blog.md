@@ -68,9 +68,9 @@ Applications built atop Ethereum are some other matter, so long as they use the 
 
 However, should any of these Ethereum "DAPP" (Decentralized APPlication) projects seek to found their own blockchains, Bitcoin is the internet's secure global standard for crowdsourcing your project. Conservative development by the Bitcoin Core software development team turned out to be the smart technological and investment decision.
 
-The internet officially, according to the market, has its own money and technical standards to fasten and propel any cryptocurrency project that may seek to improve the political or financial system.
+The internet unofficially has its own money and technical standards to fasten and propel any cryptocurrency project that may seek to improve the political or financial system.
 
-However, that is not the role of Bitcoin. [Bitcoin is replacing the Royal Mint](https://bitcoin.org/bitcoin.pdf){:target="_blank"}.
+This is not the role of Bitcoin. [Bitcoin is replacing the Royal Mint](https://bitcoin.org/bitcoin.pdf){:target="_blank"}.
 
 
 ###### [Back](http://www.beginners.academy/blog)
