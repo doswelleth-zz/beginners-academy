@@ -70,7 +70,7 @@ However, should any of these Ethereum "DAPP" (Decentralized APPlication) project
 
 The internet unofficially has its own money and technical standards to fasten and propel any cryptocurrency project that may seek to improve the political or financial system.
 
-This is not the role of Bitcoin. [Bitcoin is replacing the Royal Mint](https://bitcoin.org/bitcoin.pdf){:target="_blank"}.
+This is not the role of Bitcoin. [Bitcoin is replacing the Royal Mint](http://nakamotoinstitute.org/mempool/economics-of-bitcoin-as-a-settlement-network/){:target="_blank"}.
 
 
 ###### [Back](http://www.beginners.academy/blog)
