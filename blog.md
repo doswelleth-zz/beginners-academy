@@ -26,13 +26,15 @@ People would prefer more privacy than less. People would prefer of their own vol
 
 People should, too, then have the respect of being addressed and appropriated based on their requests. These ideas, while free-thinking and info-modern, maximize trust in the individual and minimize the necessity to trust in others.
 
-It is counterintuitive but this is what strengthens a system and the relationships between individuals within a system over time. Strong people enforce strong realities and have the capacity to maintain strong relationships. The transition from dependence on trusted-third parties to decentralized crypto-systems maintained by strong participating actors is a work in progress.
+It is counterintuitive but this is what strengthens a system and the relationships between individuals within a system over time.
+
+Strong people enforce strong realities and have the capacity to maintain strong relationships. The transition from dependence on trusted-third parties to decentralized crypto-systems maintained by strong participating actors is a work in progress.
 
 Systems are, after all, easier to design than psychologies. However, better systems are required.
 
 I believe education, mentorship, and good design (better defaults in software and hardware development) are antecedents to this physical pro-form. Bitcoin will be the foundational reality of our digital economic epoch. Here's why:
 
-January 2017 saw the beginning of the end of public banking. The [ICO ("initial coin offering")](https://cointelegraph.com/explained/ico-explained){:target="_blank"} boom year saw public blockchain experiments [finance their crowdsourced crypto projects with bitcoins](https://www.tezos.com/help){:target="_blank"}.
+January 2017 saw the beginning of the end of public banking. The [ICO ("initial coin offering")](https://cointelegraph.com/explained/ico-explained){:target="_blank"} boom year saw public blockchain experiments [financing their crowdsourced crypto projects with bitcoins](https://www.tezos.com/help){:target="_blank"}.
 
 [Ethereum itself was an ICO](https://blog.ethereum.org/2014/07/22/launching-the-ether-sale/){:target="_blank"} and raised capital using bitcoins, maybe the most successful ICO project to date. Ethereum is now the leading platform for building cryptocurrency applications. Contrary to many of my contemporaries, I think this is good for Bitcoin.
 
@@ -40,7 +42,7 @@ Private and free banking is how markets are supposed to work. The market should 
 
 Public and private blockchain experiments, however ambitious, criminal, or sophomoric, are positive examples of free banking. Historical precedents for similar realities have been documented, namely during the Industrial Revolution in Britain.
 
-In the 1632, Charles I of England, who believed in the "divine right of kings," confiscated 200,000 pounds of gold from the Royal Mint, calling it "a loan."
+In the mid 1640s, Charles I of England, who believed in the "divine right of kings," [confiscated 130,000 pounds of silver bullion from the Royal Mint](https://en.wikipedia.org/wiki/Charles_I_of_England){:target="_blank"}, calling it "a loan" at 8%.
 
 Although returned, Goldsmiths were spooked and began withdrawing their gold from the Royal Mint out of fear of future confiscation. Goldsmiths immediately began storing gold in their personal coffers inside private warehouses in London.
 
@@ -50,7 +52,7 @@ In this way, fractional reserve banking was introduced to England.
 
 Things worsen as the needs for small business denominations of Royal Copper coins were not being produced, as the Royal Mint saw [copper as unworthy to bear the visage of a king](http://store.mises.org/Good-Money-P519.aspx){:target="_blank"}. This led to the advent of [Tradesman's Tokens](http://www.thecoppercorner.com/history/18thC_hist.html){:target="_blank"}, also known as a "Commercial Tokens," "Specious Tokens," "Private Tokens," "Political Tokens," "Social issues," and "Building Medalets."
 
-While not officially acknowledged by the Royal Mint (they were swiftly outlawed some decades later), they were integral to the success of Industrial Revolution England.
+While not officially acknowledged by the Royal Mint (they were swiftly outlawed some decades later), they were integral to the success of Industrial Revolutionary England.
 
 Workers could be paid for services rendered. Coins were fungible between butcher and baker, as their shops were owned and operated by earnest and production-ready shopkeepers. There was no central bank until [1694](https://en.wikipedia.org/wiki/Bank_of_England){:target="_blank"} and even then these tokens were the standard of the bourgeois class for several decades hence.
 
@@ -66,7 +68,7 @@ However, should these "DAPP" (Decentralized APPlication) projects seek to found 
 
 The internet officially, according to the market, has its own money and technical standards to fasten and propel any cryptocurrency project that may seek to improve the political and financial system.
 
-However, that is not the responsibility of Bitcoin. Bitcoin [replaced the Royal Mint(https://bitcoin.org/bitcoin.pdf){:target="_blank"}.
+However, that is not the responsibility of Bitcoin. Bitcoin [replaces the Royal Mint](https://bitcoin.org/bitcoin.pdf){:target="_blank"}.
 
 
 ###### [Back](http://www.beginners.academy/blog)
