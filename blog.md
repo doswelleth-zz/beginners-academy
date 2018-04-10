@@ -5,41 +5,42 @@
 
 ##### April 9, 2018
 
-I have moved on to other projects non-crypto related, for the moment, namely my iOS application [Hello, Advocate](https://itunes.apple.com/us/app/hello-advocate/id1360739843?mt=8){:target="_blank"}.
 
-My next contribution to the space will come soon, likely via the [Blockstack](https://blockstack.org){:target="_blank"} ecosystem. Building a scalable, decentralized social application, based on the world's most secure proof-of-work chain of recorded property (or "blockchain"), will be the objective.
+The Bitcoin blockchain is the most advanced, battle-tested database in production. It is the only immutable record of history in the world, a global supercomputer ensuring no participating actor may cheat the system, forge a signature, or steal any units of account.
 
-I am just as ecstatic to test my idea using Lightning Network, a leading solution for scaling blockchains.
+It is more deeply an information system of [secure property with owner authority](http://nakamotoinstitute.org/secure-property-titles/){:target="_blank"}, a socially scalable identity system.
 
-The Bitcoin blockchain is the most advanced, battle-tested database in production. It is the only immutable record of history in the world, a global supercomputer ensuring no participating actor may cheat the system, forge a signature, or steal any units of account. It is more deeply an information system of [secure property with owner authority](http://nakamotoinstitute.org/secure-property-titles/){:target="_blank"}, a socially scalable identity system.
-
-The system is not weakly subjected to hard forking the core protocol because of market demand. Bitcoin is not a company, a product, or a service (barring conventional uses of the word "service"). The system is not hierarchical. The system is not centralized or expedient.
+This system is not easily subjected to hard forking its core protocol because of market demand. Bitcoin is not a company, a product, or a service (barring conventional uses of the word "service"). The system is not hierarchical, centralized, or expedient.
 
 Any person or organization may participate in the system and be equal to every other person or organization in the system, were they willing to contribute the same amount of value of said persons or organizations.
+
+So why would any og this be valuable to an internet economy?
 
 Bitcoin is a not democracy and is not designed to improve the current political or financial system.
 
 Bitcoin is cryptoanarchy: a political ideology that believes that messages and transactions over insecure public networks, such as the internet, should be protected by strong cryptographic primitives, holding true that individuals are sovereign and should make decisions based on what's best for them and not the group.
 
-It is an honest and practical view of the world. Most humans practice it everyday, if unwittingly. I am also wont to believe such an ideology may replace the current political and financial system.
+It is an honest and practical view of the world. Most humans [practice it everyday](https://www.britannica.com/topic/prisoners-dilemma){:target="_blank"}, if unwittingly.
 
 People would prefer more privacy than less. People would prefer of their own volition to selectively reveal and articulate themselves to the world.
 
-People should, too, then have the respect of being addressed and appropriated based on their requests. These ideas, while free-thinking and info-modern, maximize trust in the individual and minimize trust in others.
+People should, too, then have the respect of being addressed and appropriated based on their requests. These ideas, while free-thinking and info-modern, maximize trust in the individual and minimize the necessity to trust in others.
 
 It is counterintuitive but think about what strengthens a system and the relationships between individuals within a system over time. Strong people enforce strong realities and have the capacity to maintain strong relationships. The transition from dependence on trusted-third parties to decentralized crypto-systems maintained by strong participating actors is a work in progress.
 
 Systems are, after all, easier to design than psychologies. However, better systems are required.
 
-Education, mentorship, and good design (better defaults in software and hardware development) are antecedents to this physical pro-form. Bitcoin is the foundational reality of this digital epoch. Here's why:
+I believe education, mentorship, and good design (better defaults in software and hardware development) are antecedents to this physical pro-form. Bitcoin will be the foundational reality of our digital economic epoch. Here's why:
 
 January 2017 saw the beginning of the end of public banking. The [ICO ("initial coin offering")](https://cointelegraph.com/explained/ico-explained){:target="_blank"} boom year saw public blockchain experiments [finance their crowdsourced crypto projects with bitcoins](https://www.tezos.com/help){:target="_blank"}.
 
-Ethereum itself was an ICO and raised capital using bitcoins, maybe the most successful ICO project to date. Ethereum is now the leading platform for building cryptocurrency applications. Contrary to many of my contemporaries, I think this is good for Bitcoin.
+[Ethereum itself was an ICO](https://blog.ethereum.org/2014/07/22/launching-the-ether-sale/){:target="_blank"} and raised capital using bitcoins, maybe the most successful ICO project to date. Ethereum is now the leading platform for building cryptocurrency applications. Contrary to many of my contemporaries, I think this is good for Bitcoin.
 
 Private and free banking is how markets are supposed to work. The market should decide what money is at any time during a private transaction. If I prefer your shirt, for example, to your government-issued money, your cryptocurrency token, or your shiny gold ETF certificate, that should suffice.
 
-Public and private blockchain experiments, however ambitious, criminal, or sophomoric, are positive example of free banking. There is precedent for the necessity of this reality. In the 1632, Charles I of England, who believed in the "divine right of kings," confiscated 200,000 pounds of gold from the Royal Mint, calling it "a loan."
+Public and private blockchain experiments, however ambitious, criminal, or sophomoric, are positive examples of free banking. Historical precedents for similar realities have been documented, namely during the Industrial Revolution in Britain.
+
+In the 1632, Charles I of England, who believed in the "divine right of kings," confiscated 200,000 pounds of gold from the Royal Mint, calling it "a loan."
 
 Although returned, Goldsmiths were spooked and began withdrawing their gold from the Royal Mint out of fear of future confiscation. Goldsmiths immediately began storing gold in their personal coffers inside private warehouses in London.
 
@@ -61,9 +62,11 @@ To create your money or money project on the internet, it is best you use bitcoi
 
 Applications built atop Ethereum are another matter, so long as they use the ERC20 or some other Ethereum technical standard.
 
-However, should these "DAPP" (Decentralized APPlication) projects seek to found their own blockchains, Bitcoin is the internet's secure global standard for crowdsourcing your project. Conservative development by the Bitcoin Core software development team turned out to be the smart technological and investment decision. The internet officially, according to the market, has its own money and technical standards to gird and propel any cryptocurrency project that may seek to improve the political and financial system.
+However, should these "DAPP" (Decentralized APPlication) projects seek to found their own blockchains, Bitcoin is the internet's secure global standard for crowdsourcing your project. Conservative development by the Bitcoin Core software development team turned out to be the smart technological and investment decision.
 
-That is not the responsibility of Bitcoin. Bitcoin elegantly replaced them.
+The internet officially, according to the market, has its own money and technical standards to fasten and propel any cryptocurrency project that may seek to improve the political and financial system.
+
+However, that is not the responsibility of Bitcoin. Bitcoin [replaced the Royal Mint(https://bitcoin.org/bitcoin.pdf){:target="_blank"}.
 
 
 ###### [Back](http://www.beginners.academy/blog)
