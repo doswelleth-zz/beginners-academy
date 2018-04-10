@@ -14,7 +14,7 @@ This system is not easily subjected to hard forking its core protocol because of
 
 Any person or organization may participate in the system and be equal to every other person or organization in the system, were they willing to contribute the same amount of value of said persons or organizations.
 
-So why would any og this be valuable to an internet economy?
+So why would any of this be valuable to an internet economy?
 
 Bitcoin is a not democracy and is not designed to improve the current political or financial system.
 
