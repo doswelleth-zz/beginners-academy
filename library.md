@@ -160,7 +160,7 @@ Exceptional US based exchange and custodial service
 Meet up to buy or sell Bitcoin offline in a public place
 
 
-### [Square Cash (Beta)](https://cash.me){:target="_blank"}
+### [Square Cash](https://cash.me){:target="_blank"}
 Buy Bitcoin easily with a debit card
 
 
