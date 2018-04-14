@@ -2,15 +2,15 @@
 
 
 ## Notes from Nick Szabo's Blog Post
-## The many traditions of non-governmental money (part i)
+##### [The many traditions of non-governmental money (part i)](https://unenumerated.blogspot.com/2018/03/the-many-traditions-of-non-governmental.html){:target="_blank"}
 
-### Originally published Friday, March 23, 2018
+#### Originally published Friday, March 23, 2018
 #### David Oliver Doswell
 
 ##### April 14, 2018
 
 
-0. Our topic today is the history of non-governmental money
+0. Our topic today is the history of non-governmental money.
 
 1. Traditionally, money ("privately issued IOUs and privately minted coins") was not issued by banks.
 
