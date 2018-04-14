@@ -1,4 +1,4 @@
-###### [Back](http://www.beginners.academy/society)
+###### [Back](http://www.beginners.academy/about)
 
 
 ## Notes from Nick Szabo's Blog Post
