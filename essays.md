@@ -4,7 +4,6 @@
 ## Notes from Nick Szabo's Blog Post
 ##### [The many traditions of non-governmental money (part i)](https://unenumerated.blogspot.com/2018/03/the-many-traditions-of-non-governmental.html){:target="_blank"}
 
-#### _Originally written March 23, 2018_
 #### David Oliver Doswell
 
 ##### April 14, 2018
