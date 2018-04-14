@@ -40,6 +40,9 @@
 13. "For most of monetary history, from ancient civilization until recent times, the monetary metals were the ultimate "O" in the IOUs --"
 
 
+###### [Back](http://www.beginners.academy/blog)
+
+
 ## On Bitcoin and Free Banking
 #### David Oliver Doswell
 
