@@ -1,6 +1,7 @@
+###### [Back](http://www.beginners.academy/about)
+
 # Library
 
-###### [Back](http://www.beginners.academy/about)
 
 ## Original Whitepaper
 

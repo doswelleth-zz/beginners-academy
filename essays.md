@@ -1,6 +1,6 @@
-# Essays
-
 ###### [Back](http://www.beginners.academy/about)
+
+# Essays
 
 
 ## Notes from Nick Szabo's Blog Post
