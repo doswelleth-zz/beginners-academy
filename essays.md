@@ -40,7 +40,7 @@
 13. "For most of monetary history, from ancient civilization until recent times, the monetary metals were the ultimate "O" in the IOUs --"
 
 
-###### [Back](http://www.beginners.academy/blog)
+###### [Back](http://www.beginners.academy/essays)
 
 
 ## On Bitcoin and Free Banking
@@ -116,7 +116,7 @@ The internet unofficially has its own money and technical standards to fasten an
 This is not the role of Bitcoin. [Bitcoin is replacing the Royal Mint](http://nakamotoinstitute.org/mempool/economics-of-bitcoin-as-a-settlement-network/){:target="_blank"}.
 
 
-###### [Back](http://www.beginners.academy/blog)
+###### [Back](http://www.beginners.academy/essays)
 
 
 ## The Property Analogy
@@ -143,7 +143,7 @@ The railroad tracks on Fourth Avenue were first being covered over by pavement t
 Finally, the utility of what you built in those days would likely be outmoded, today. But you would have refreshing optionality to sell or even rent your property. Bitcoin's database benefits from being a technology, meaning it is prime location to an improving surrounding environment, in this case the technology industry. What gets built on this property over the next 147 years will be at the discretion of the residents, namely the possessors of the addresses.
 
 
-###### [Back](http://www.beginners.academy/blog)
+###### [Back](http://www.beginners.academy/essays)
 
 
 ## Trust-Minimization
@@ -166,7 +166,7 @@ Unfortunately, this is bad for protocols.
 A holder's faith in Bitcoin is not simplistic faith in the price increasing based on the frenetic adoption of new buyers who see the price increasing. Faith in Bitcoin is faith in the primarily rules-based system's ability to achieve consensus without any [trusted third-party](http://fortune.com/2017/08/31/wells-fargo-fake-accounts-scandal-2017-tim-sloan/){:target="_blank"}. This obliterates the potential for corruption, theft, and seizure of assets from the system, as there is no powerful person to buy off or single server to confiscate. When we hear in polite society "trust the system!" we should hear "trust them, they can enforce this or that outcome," with the unspoken disclaimer 'especially if it benefits the system.' Trust-minimized systems do not assume people are corrupt, simply that they can be, and design technical solutions that make corruption improbable.
 
 
-###### [Back](http://www.beginners.academy/blog)
+###### [Back](http://www.beginners.academy/essays)
 
 
 ## The Engineering Principle
@@ -196,7 +196,7 @@ This functionality is freely available to every man, woman and child, on planet 
 They are also volunteers, ensuring the price of Bitcoin is the least interesting thing about it while also being the second most undervalued.
 
 
-###### [Back](http://www.beginners.academy/blog)
+###### [Back](http://www.beginners.academy/essays)
 
 
 ## The Mania of Poverty
@@ -214,7 +214,7 @@ Bitcoin teaches you the value of money, not the utility. Sure, sending money fro
 There are other extraneous qualifications the SEC may invoke to consider you sophisticated enough to know if cartoon dog ears on your social media profile picture is a valuable feature to teenagers. Sophistication is debatable. Crytpocurrencies, generally, regardless of the technology (or lack thereof) underpinning them, are a new asset class for the unsophisticated. Yes, the potential here is an honest market where the value of money is not how often you spend it but how difficult it is for you to part with it. However, it is also about giving regular people the glowing opportunity to learn how to become financially independent, by freely purchasing an asset on an open market without the intrusion of a lender.
 
 
-###### [Back](http://www.beginners.academy/blog)
+###### [Back](http://www.beginners.academy/essays)
 
 
 ## On Intrinsic Value
@@ -233,7 +233,7 @@ Essentially, Bitcoin has a fixed supply limit of coins to be mined and new coins
 Consequently, there will be some speculative mania as more people seek to acquire new coins faster than the system can supply them. As with any asset, a part of the value of each coin is based on demand.
 
 
-###### [Back](http://www.beginners.academy/blog)
+###### [Back](http://www.beginners.academy/essays)
 
 
 ## The Final Problem
@@ -275,7 +275,7 @@ If a miner attempts to add 15 bitcoins or 12.3 bitcoins to their block when they
 This process and computer network together is called [Bitcoin: a peer-to-peer electronic cash system](https://bitcoin.org/bitcoin.pdf){:target="_blank"}.
 
 
-###### [Back](http://www.beginners.academy/blog)
+###### [Back](http://www.beginners.academy/essays)
 
 
 ## A Big Idea
@@ -318,7 +318,7 @@ A decentralized network of computers verifying the transactions for millions of 
 A decentralized financial system, with the option to share data with interested parties, is a confident first step toward something resembling a universal basic income, without further mismanaging privacy or the tax code.
 
 
-###### [Back](http://www.beginners.academy/blog)
+###### [Back](http://www.beginners.academy/essays)
 
 
 ## The Modern Family
@@ -340,7 +340,7 @@ However, this might be a transient state. I believe we can be weaned off of cons
 Just as nearly every working-class home over the last 20 years has purchased some form of internet-connected computer, I believe every home over the next 20 years should be a participant in a global financial system. In the 20 years since Jobs returned to Apple (1997) with a vision for how to rebuild a company on the brink of bankruptcy, a peer-to-peer electronic cash system emerged to do the same for the working-class family. Modems, routers and smartphones, were the first wave yet required the advertising model to fund its creative outlet: the internet. Miners, routers ([Lightning Network](https://lightning.network){:target="_blank"} nodes on [Bitcoin Fibre](http://bitcoinfibre.org){:target="_blank"}) and Bitcoin wallets may be required to migrate the working-class family from consumers to shareholder.
 
 
-###### [Back](http://www.beginners.academy/blog)
+###### [Back](http://www.beginners.academy/essays)
 
 
 ## Personal Responsibility
@@ -362,7 +362,7 @@ However, you should choose what best serves your needs. Maybe it's Ledger Nano S
 You are in control.
 
 
-###### [Back](http://www.beginners.academy/blog)
+###### [Back](http://www.beginners.academy/essays)
 
 
 ## On Antifragility
