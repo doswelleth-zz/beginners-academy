@@ -153,11 +153,7 @@ A preferred platform for crypto day traders
 
 
 ### [Gemini](https://gemini.com){:target="_blank"}
-Exceptional US based exchange and custodial service
-
-
-### [Local Bitcoins](https://localbitcoins.com){:target="_blank"}
-Meet up to buy or sell Bitcoin offline in a public place
+US based exchange and custodial service
 
 
 ### [Square Cash](https://cash.me){:target="_blank"}
