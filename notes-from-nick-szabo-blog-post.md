@@ -1,6 +1,6 @@
-### David Oliver Doswell
-
 ## Notes from [Nick Szabo's Blog Post](https://unenumerated.blogspot.com/2018/03/the-many-traditions-of-non-governmental.html){:target="_blank"}
+
+#### David Oliver Doswell
 
 ##### April 14, 2018
 
