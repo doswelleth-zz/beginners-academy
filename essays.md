@@ -2,7 +2,7 @@
 
 # Essays
 
-[Szabo](http://www.beginners.academy/essays/notes-from-nick-szabos-blog-post)
+## [Szabo](http://www.beginners.academy/essay/notes-from-nick-szabos-blog-post)
 
 
 ## Notes from Nick Szabo's Blog Post
