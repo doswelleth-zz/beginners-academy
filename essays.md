@@ -1,10 +1,8 @@
-###### [Back](http://www.beginners.academy/about)
-
 # Essays
 
-#### [Notes from Nick Szabo's Blog Post](http://www.beginners.academy/notes-from-nick-szabo-blog-post)
+### [Notes from Nick Szabo's Blog Post](http://www.beginners.academy/notes-from-nick-szabo-blog-post)
 
-#### [Bitcoin and Free Banking](http://www.beginners.academy/bitcoin-and-free-banking)
+### [Bitcoin and Free Banking](http://www.beginners.academy/bitcoin-and-free-banking)
 
 ## The Property Analogy
 ##### David Oliver Doswell
