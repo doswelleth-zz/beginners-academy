@@ -23,5 +23,3 @@
 ### [Personal Responsibility](http://www.beginners.academy/personal-responsibility)
 
 ### [On Bitcoin and Antifragility](http://www.beginners.academy/on-bitcoin-and-antifragility)
-
-#### [Top](http://www.beginners.academy/essays)
