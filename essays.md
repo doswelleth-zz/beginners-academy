@@ -26,4 +26,4 @@
 
 ### [On Bitcoin and Antifragility](http://www.beginners.academy/on-bitcoin-and-antifragility)
 
-### [Extras](http://www.beginners.academy/extras/testingFileStructure)
+### [Extras](https://www.beginners.academy/extras/testingFileStructure)
