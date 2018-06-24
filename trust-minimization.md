@@ -19,4 +19,4 @@ Unfortunately, this is bad for protocols.
 A holder's faith in Bitcoin is not simplistic faith in the price increasing based on the frenetic adoption of new buyers who see the price increasing. Faith in Bitcoin is faith in the primarily rules-based system's ability to achieve consensus without any [trusted third-party](http://fortune.com/2017/08/31/wells-fargo-fake-accounts-scandal-2017-tim-sloan/){:target="_blank"}. This obliterates the potential for corruption, theft, and seizure of assets from the system, as there is no powerful person to buy off or single server to confiscate. When we hear in polite society "trust the system!" we should hear "trust them, they can enforce this or that outcome," with the unspoken disclaimer 'especially if it benefits the system.' Trust-minimized systems do not assume people are corrupt, simply that they can be, and design technical solutions that make corruption improbable.
 
 
-###### [Back](http://www.beginners.academy/essays)
+###### [Back](https://www.beginners.academy/essays)

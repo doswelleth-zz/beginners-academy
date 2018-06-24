@@ -34,4 +34,4 @@
 13. "For most of monetary history, from ancient civilization until recent times, the monetary metals were the ultimate "O" in the IOUs --"
 
 
-###### [Back](http://www.beginners.academy/essays)
+###### [Back](https://www.beginners.academy/essays)

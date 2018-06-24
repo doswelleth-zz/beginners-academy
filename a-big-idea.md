@@ -39,4 +39,4 @@ A decentralized network of computers verifying the transactions for millions of 
 A decentralized financial system, with the option to share data with interested parties, is a confident first step toward something resembling a universal basic income, without further mismanaging privacy or the tax code.
 
 
-###### [Back](http://www.beginners.academy/essays)
+###### [Back](https://www.beginners.academy/essays)

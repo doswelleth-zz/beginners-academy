@@ -23,4 +23,4 @@ The railroad tracks on Fourth Avenue were first being covered over by pavement t
 Finally, the utility of what you built in those days would likely be outmoded, today. But you would have refreshing optionality to sell or even rent your property. Bitcoin's database benefits from being a technology, meaning it is prime location to an improving surrounding environment, in this case the technology industry. What gets built on this property over the next 147 years will be at the discretion of the residents, namely the possessors of the addresses.
 
 
-###### [Back](http://www.beginners.academy/essays)
+###### [Back](https://www.beginners.academy/essays)

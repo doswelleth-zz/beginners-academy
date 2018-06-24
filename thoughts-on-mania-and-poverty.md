@@ -16,4 +16,4 @@ To buy and hold Bitcoin, you simply need a willingness to learn and the cost of 
 There are other extraneous qualifications the SEC may invoke to consider you sophisticated enough to know if cartoon dog ears on your social media profile picture is a valuable feature to teenagers. Sophistication is debatable. Crytpocurrencies, generally, regardless of the technology (or lack thereof) underpinning them, are a new asset class for the unsophisticated. Yes, the potential here is an honest market where the value of money is not how often you spend it but how difficult it is for you to part with it. However, it is also about giving regular people the glowing opportunity to learn how to become financially independent, by freely purchasing an asset on an open market without the intrusion of a lender.
 
 
-###### [Back](http://www.beginners.academy/essays)
+###### [Back](https://www.beginners.academy/essays)

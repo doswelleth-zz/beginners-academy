@@ -9,4 +9,4 @@ Systems as with people improve when they profit from information. But some infor
 
 Bitcoin is a trust-minimized, peer-to-peer electronic cash system that gains from disorder. As a singularity the system is more organism than state machine and evolves somewhat similarly. Information propagates through the network by way of unit tests and attacks, price discovery and speculation, until it is battle-tested with nothing more than pure nature to kill it or make it stronger.
 
-###### [Back](http://www.beginners.academy/essays)
+###### [Back](https://www.beginners.academy/essays)

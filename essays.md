@@ -1,29 +1,27 @@
-###### [Back](http://www.beginners.academy/about)
+###### [Back](https://www.beginners.academy/about)
 
 # Essays
 
-### [Notes from Nick Szabo's Blog Post](http://www.beginners.academy/notes-from-nick-szabo-blog-post)
+### [Notes from Nick Szabo's Blog Post](https://www.beginners.academy/notes-from-nick-szabo-blog-post)
 
-### [Bitcoin and Free Banking](http://www.beginners.academy/bitcoin-and-free-banking)
+### [Bitcoin and Free Banking](https://www.beginners.academy/bitcoin-and-free-banking)
 
-### [The Property Analogy](http://www.beginners.academy/the-property-analogy)
+### [The Property Analogy](https://www.beginners.academy/the-property-analogy)
 
-### [Trust Minimization](http://www.beginners.academy/trust-minimization)
+### [Trust Minimization](https://www.beginners.academy/trust-minimization)
 
-### [The Engineering Principle](http://www.beginners.academy/the-engineering-principle)
+### [The Engineering Principle](https://www.beginners.academy/the-engineering-principle)
 
-### [Thoughts on Mania and Poverty](http://www.beginners.academy/thoughts-on-mania-and-poverty)
+### [Thoughts on Mania and Poverty](https://www.beginners.academy/thoughts-on-mania-and-poverty)
 
-### [On Intrinsic Value](http://www.beginners.academy/on-intrinsic-value)
+### [On Intrinsic Value](https://www.beginners.academy/on-intrinsic-value)
 
-### [The Final Problem](http://www.beginners.academy/the-final-problem)
+### [The Final Problem](https://www.beginners.academy/the-final-problem)
 
-### [A Big Idea](http://www.beginners.academy/a-big-idea)
+### [A Big Idea](https://www.beginners.academy/a-big-idea)
 
-### [A Consumer Internet and The Modern Family](http://www.beginners.academy/a-consumer-internet-and-the-modern-family)
+### [A Consumer Internet and The Modern Family](https://www.beginners.academy/a-consumer-internet-and-the-modern-family)
 
-### [Personal Responsibility](http://www.beginners.academy/personal-responsibility)
+### [Personal Responsibility](https://www.beginners.academy/personal-responsibility)
 
-### [On Bitcoin and Antifragility](http://www.beginners.academy/on-bitcoin-and-antifragility)
-
-### [Extras](https://www.beginners.academy/extras/testingFileStructure)
+### [On Bitcoin and Antifragility](https://www.beginners.academy/on-bitcoin-and-antifragility)

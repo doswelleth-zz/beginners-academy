@@ -18,4 +18,4 @@ However, this might be a transient state. I believe we can be weaned off of cons
 Just as nearly every working-class home over the last 20 years has purchased some form of internet-connected computer, I believe every home over the next 20 years should be a participant in a global financial system. In the 20 years since Jobs returned to Apple (1997) with a vision for how to rebuild a company on the brink of bankruptcy, a peer-to-peer electronic cash system emerged to do the same for the working-class family. Modems, routers and smartphones, were the first wave yet required the advertising model to fund its creative outlet: the internet. Miners, routers ([Lightning Network](https://lightning.network){:target="_blank"} nodes on [Bitcoin Fibre](http://bitcoinfibre.org){:target="_blank"}) and Bitcoin wallets may be required to migrate the working-class family from consumers to shareholder.
 
 
-###### [Back](http://www.beginners.academy/essays)
+###### [Back](https://www.beginners.academy/essays)

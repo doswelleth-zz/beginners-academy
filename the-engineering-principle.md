@@ -26,4 +26,4 @@ This functionality is freely available to every man, woman and child, on planet 
 They are also volunteers, ensuring the price of Bitcoin is the least interesting thing about it while also being the second most undervalued.
 
 
-###### [Back](http://www.beginners.academy/essays)
+###### [Back](https://www.beginners.academy/essays)

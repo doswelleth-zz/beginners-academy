@@ -15,4 +15,4 @@ Essentially, Bitcoin has a fixed supply limit of coins to be mined and new coins
 Consequently, there will be some speculative mania as more people seek to acquire new coins faster than the system can supply them. As with any asset, a part of the value of each coin is based on demand.
 
 
-###### [Back](http://www.beginners.academy/essays)
+###### [Back](https://www.beginners.academy/essays)

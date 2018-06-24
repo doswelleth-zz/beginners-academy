@@ -18,4 +18,4 @@ However, you should choose what best serves your needs. Maybe it's Ledger Nano S
 You are in control.
 
 
-###### [Back](http://www.beginners.academy/essays)
+###### [Back](https://www.beginners.academy/essays)

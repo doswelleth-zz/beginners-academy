@@ -38,4 +38,4 @@ If a miner attempts to add 15 bitcoins or 12.3 bitcoins to their block when they
 This process and computer network together is called [Bitcoin: a peer-to-peer electronic cash system](https://bitcoin.org/bitcoin.pdf){:target="_blank"}.
 
 
-###### [Back](http://www.beginners.academy/essays)
+###### [Back](https://www.beginners.academy/essays)

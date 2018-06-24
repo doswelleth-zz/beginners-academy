@@ -72,4 +72,4 @@ The internet unofficially has its own money and technical standards to fasten an
 This is not the role of Bitcoin. [Bitcoin is replacing the Royal Mint](http://nakamotoinstitute.org/mempool/economics-of-bitcoin-as-a-settlement-network/){:target="_blank"}.
 
 
-###### [Back](http://www.beginners.academy/essays)
+###### [Back](https://www.beginners.academy/essays)
