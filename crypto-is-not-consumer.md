@@ -1,4 +1,4 @@
-## Crypto is Not Consumer
+## Crypto is Not Consumer ( A Thread )
 
 #### David Oliver Doswell
 
