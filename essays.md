@@ -2,6 +2,8 @@
 
 # Essays
 
+### [Crypto is Not Consumer](https://www.beginners.academy/crypto-is-not-consumer)
+
 ### [Notes from Nick Szabo's Blog Post](https://www.beginners.academy/notes-from-nick-szabo-blog-post)
 
 ### [Bitcoin and Free Banking](https://www.beginners.academy/bitcoin-and-free-banking)
