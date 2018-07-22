@@ -23,4 +23,6 @@
 17. Satoshi was never a “leader.” That is our familiar, hierarchical, consumerist view of being a part of something. Gavin was not a leader, either (jokingly referring to himself as a benevolent one).
 18. Satoshi was a creator. Gavin was a repo maintainer. That is the language of open source software development.
 19. Perhaps a consensus for open vs. closed would better serve modern blockchain development, regardless of the technology employed, as “crypto” today is marketing copy.
-20. “Crypto” should be seen as suspect so long as any internal or external authority can roll back the chain, mitigate txs, or influence a trade, without the rough consensus of participating players.   
+20. “Crypto” should be seen as suspect so long as any internal or external authority can roll back the chain, mitigate txs, or influence a trade, without the rough consensus of participating players.  
+
+###### [Back](https://www.beginners.academy/essays) 
